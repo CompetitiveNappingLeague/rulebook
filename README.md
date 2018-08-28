@@ -10,7 +10,7 @@ Napping is the core of the sport, and so it is worth defining. Within the contex
 * within a single heat, a contestent must attain the deepest sleep as quickly as possible
 * The athletes are rated and refereed by someone with a medical background who is capable of rating sleep, or technological equivalents
 * Deductions may be leveed upon cramps and frequent or intense (shock) body movement
-* Athletes must sleep on similar resting objects (same couch/bed/pillow/etc.), but are allowed personal choice in pajamas
+* Athletes must sleep on similar resting objects (same couch/bed/etc.), but are allowed personal choice in pajamas
 * personal pillows are always allowed regardless of venue
 
 ## License
